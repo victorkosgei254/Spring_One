@@ -1,0 +1,1 @@
+web: java -jar spring_one/target/spring_one-1.0-SNAPSHOT.jar
