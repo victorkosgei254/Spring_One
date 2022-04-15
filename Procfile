@@ -1,1 +1,1 @@
-web: java -jar target/spring_one-1.0-SNAPSHOT.jar
+web: java -jar target/*.jar
